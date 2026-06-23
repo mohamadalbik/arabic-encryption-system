@@ -35,13 +35,13 @@ A creative encryption and decryption system built with Python that transforms a 
 
 1. **Clone this repository:**
    ```
-   git clone https://github.com/your-username/arabic-poetic-encryption.git
+   git clone https://github.com/mohamadalbik/arabic-encryption-system.git
    cd arabic-poetic-encryption
    ```
 
 2. **Run the application:**
    ```
-   python main.py
+   python app.py
    ```
 
 ## How It Works
@@ -64,20 +64,6 @@ The poem database was built using the following process:
 1. **Data Collection** — Poems were gathered from Arabic poetry websites using a custom Python web scraping script
 2. **Data Cleaning** — The collected poems were processed and cleaned using AI tools to make them usable by the system
 3. **Data Organization** — The cleaned poems were structured into a JSON database, categorized and mapped to letters
-
-## Project Structure
-
-```
-arabic-poetic-encryption/
-├── main.py              # Main application with GUI
-├── encrypt.py           # Encryption logic
-├── decrypt.py           # Decryption logic
-├── database/
-│   └── poems.json       # Poem database
-├── scraper/
-│   └── poem_scraper.py  # Web scraping script
-└── screenshots/         # Application screenshots
-```
 
 ## Notes
 

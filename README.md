@@ -12,9 +12,11 @@ A creative encryption and decryption system built with Python that transforms a 
 
 ## Screenshots
 
-*(Add your screenshots here)*
-![Main Interface](screenshots/main-interface.png)
-![Encryption Example](screenshots/encryption-example.png)
+<img src = "https://github.com/mohamadalbik/arabic-encryption-system/blob/main/.screenshots/photo_1_2026-06-23_19-10-52.jpg" height = "300" width = "300">
+
+<img src = "https://github.com/mohamadalbik/arabic-encryption-system/blob/main/.screenshots/photo_2_2026-06-23_19-10-52.jpg" height = "300" width = "300">
+
+<img src = "https://github.com/mohamadalbik/arabic-encryption-system/blob/main/.screenshots/photo_3_2026-06-23_19-10-52.jpg" height = "300" width = "300">
 
 ## Technologies
 
